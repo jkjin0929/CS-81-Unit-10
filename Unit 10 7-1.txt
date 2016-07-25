@@ -1,0 +1,17 @@
+// Joseph K. Jin
+// CS 81
+// Assignment 10
+// Chapter 7
+// Problem #1
+
+1. For the following types of objects, give a reasonable set of properties:
+
+- Country: population, GDP, language, religion, government, capital, area
+
+- Restaurant: menu, area, location, employee, grade
+
+- Music album: track, composer, singer, genre
+
+- Basketball team: player, coach, manager, trainer
+
+- Movie: theme, producer, actor/actress, music, writer, film maker, rating

@@ -1,0 +1,25 @@
+// Joseph K. Jin
+// CS 81
+// Assignment 10
+// Chapter 7
+// Problem #2
+
+2. Consider the following code:
+
+
+var Circle = function (r) {
+	this.radius = r;
+};
+Circle.prototype.area = function () {
+	return Math.PI * this.radius * this.radius;
+}
+var c = new Circle(10);
+
+
+ What is the value of c.constructor?  List all the own properties of c.  List all the enumerable properties of c.
+
+Ans: 
+
+314
+circle, radius
+circle, radius, area
